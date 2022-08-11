@@ -16,7 +16,7 @@ weight = 20
 | `[a b c]` | [`:*`](/reference/hoon/rune/col#-coltar) or [`$:`](/reference/hoon/rune/buc#-buccol), constructs _n_-tuple in normal mode or its structure in structure mode |
 | `~[a b c]` | [`:~`](/reference/hoon/rune/col#-colsig), constructs null-terminated list |
 | `+(42)` | [`.+`](/reference/hoon/rune/dot#-dotlus), increments with Nock 4 |
-| `=(a b)` | [`.=`](/reference/hoon/rune/dot#-dottis), tests for equality wiht Nock 5 |
+| `=(a b)` | [`.=`](/reference/hoon/rune/dot#-dottis), tests for equality with Nock 5 |
 | `&#96;foo&#96;bar` | [`^-`](/reference/hoon/rune/ket#-kethep), typecasts by explicit type label |
 | `foo=bar` | [`^=`](/reference/hoon/rune/ket#-kettis), binds name to value |
 | `*foo` | [`^*`](/reference/hoon/rune/ket#-kettar), bunts (produces default mold value) |
