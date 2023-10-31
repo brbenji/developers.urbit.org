@@ -251,7 +251,7 @@ no `c` in `b` or no `b` in `a`.
 
 ---
 
-#### `++got:bi`
+### `++got:bi`
 
 Get value in `mip` or crash
 
